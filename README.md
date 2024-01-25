@@ -10,7 +10,7 @@ A Student at the University of Toronto, interested in all things Coding, Statist
 # 📊 Fun Stats!:
 ![](https://github-readme-stats.vercel.app/api?username=RaziSidd&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaziSidd&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaziSidd&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
