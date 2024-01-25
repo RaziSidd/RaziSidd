@@ -1,3 +1,6 @@
+A Student at the University of Toronto, interested in all things Coding, Statistics, and Technology!
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razi-siddiqui/) 
