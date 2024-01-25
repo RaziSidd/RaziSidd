@@ -1,5 +1,4 @@
-A Student at the University of Toronto, interested in all things Coding, Statistics, and Technology!
-
+Interested in all things coding, tech, and statistics!
 
 
 ## 🌐 Socials:
